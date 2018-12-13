@@ -1,0 +1,10 @@
+# Salesforce DX
+.sfdx/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Mac OS X
+*.DS_Store
+
